@@ -40,3 +40,5 @@ generations as they are being written.
 This was made by [Josep M. Bach (Txus)](http://blog.txus.io) under the MIT
 license. I'm [@txustice][twitter] on twitter (where you should probably follow
 me!).
+
+[twitter]: https://twitter.com/txustice
